@@ -1,6 +1,6 @@
 # Task 3 - 基于 PycWB 的 GW190521_074359 真实引力波事件时频聚类分析
 
-> 本 README 对应太极实验室 2026 年选拔题目（三）：**基于 PycWB 的真实引力波事件信号的时频聚类分析**。
+> 本仓库对应选拔题目（三）：**基于 PycWB 的真实引力波事件信号的时频聚类分析**。
 >
 > 使用前请做两件小事：
 > 1. 把文中 `figures/` 下的图片文件名替换成你自己仓库里的实际文件名；
@@ -42,11 +42,11 @@ task3-pycwb-gw190521/
 ├─ figures/
 │  ├─ 01_pycwb_spectrogram.png
 │  ├─ 02_pycwb_likelihood_map.png
-│  ├─ 03_cluster_overlay.png
-│  └─ 04_waveform_comparison.png
-├─ report/
-│  └─ notes.md
-├─ requirements.txt
+│  ├─ 03_waveform_reconstruction.png
+│  ├─ 04_cluster_overlay.png
+│  ├─ 05_waveform_comparison.png
+│  └─ 06_waveform_comparison_partial_enlarged.png
+├─ requirements.pdf
 └─ README.md
 ```
 
